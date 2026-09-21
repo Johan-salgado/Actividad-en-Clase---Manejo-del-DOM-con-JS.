@@ -1,4 +1,4 @@
-# -Taller-3---Javascript-Typescript
+# Actividad-en-Clase---Manejo-del-DOM-con-JS.
 Entrega correspondiente al  Taller 3 - Javascript/Typescript: arreglo de pagina no funcional
 
 Integrantes:
